@@ -1,0 +1,16 @@
+GEM
+  remote: http://gems.github.com/
+  specs:
+    fib_trib (0.0.1)
+    rack (1.2.1)
+    sinatra (1.1.2)
+      rack (~> 1.1)
+      tilt (~> 1.2)
+    tilt (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fib_trib
+  sinatra
