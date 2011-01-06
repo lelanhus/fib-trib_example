@@ -5,6 +5,7 @@ GIT
     fib_trib (0.0.1)
 
 GEM
+  remote: http://gems.rubyforge.org/
   remote: http://gems.github.com/
   specs:
     rack (1.2.1)
