@@ -1,7 +1,12 @@
+GIT
+  remote: git://github.com/lelanhus/fib-trib.git
+  revision: 0855b3b67bcf3b5001405ecf889b0a6acf277a8e
+  specs:
+    fib_trib (0.0.1)
+
 GEM
   remote: http://gems.github.com/
   specs:
-    fib_trib (0.0.1)
     rack (1.2.1)
     sinatra (1.1.2)
       rack (~> 1.1)
@@ -12,5 +17,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  fib_trib
+  fib_trib!
   sinatra
